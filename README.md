@@ -20,8 +20,8 @@ This repository contains my implementation of the JavaScript30 challenge created
 
 |Day|Project|Status|
 |-|-|-|
-|01|Drum Kit|🟨|
-|02|JS and CSS Clock|⬜|
+|01|Drum Kit|🟩|
+|02|JS and CSS Clock|🟨|
 |03|CSS Variables|⬜|
 |04|Array Cardio Day 1|⬜|
 |05|Flex Panel Gallery|⬜|
