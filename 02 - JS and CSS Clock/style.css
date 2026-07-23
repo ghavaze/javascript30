@@ -38,13 +38,27 @@ body {
 }
 
 .hand {
-    width: 50%;
     height: 6px;
     background: black;
     position: absolute;
     top: 50%;
+    right: 50%;
     transform-origin: 100%;
-    transform: rotate(90deg);
-    transition: all .05s;
+    transition: all 0.05s;
     transition-timing-function: cubic-bezier(0.1, 2, 0.5, 1);
+}
+.hand-jump {
+    transition: none;
+}
+
+.hour-hand {
+    width: 30%;
+}
+
+.min-hand {
+    width: 35%;
+}
+
+.second-hand {
+    width: 50%;
 }
