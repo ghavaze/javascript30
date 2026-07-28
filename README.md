@@ -28,8 +28,8 @@ This repository contains my implementation of the JavaScript30 challenge created
 |06|Type Ahead|🟩|
 |07|Array Cardio Day 2|🟩|
 |08|Fun with HTML5 Canvas|🟩|
-|09|Dev Tools Domination|🟨|
-|10|Hold Shift and Check Checkboxes|⬜|
+|09|Dev Tools Domination|🟩|
+|10|Hold Shift and Check Checkboxes|🟨|
 |11|Custom Video Player|⬜|
 |12|Key Sequence Detection|⬜|
 |13|Slide in on Scroll|⬜|
