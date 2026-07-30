@@ -33,8 +33,8 @@ This repository contains my implementation of the JavaScript30 challenge created
 |11|Custom Video Player|🟩|
 |12|Key Sequence Detection|🟩|
 |13|Slide in on Scroll|🟩|
-|14|JavaScript References VS Copying|🟨|
-|15|LocalStorage|⬜|
+|14|JavaScript References VS Copying|🟩|
+|15|LocalStorage|🟨|
 |16|Mouse Move Shadow|⬜|
 |17|Sort Without Articles|⬜|
 |18|Adding Up Times with Reduce|⬜|
