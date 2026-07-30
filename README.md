@@ -31,8 +31,8 @@ This repository contains my implementation of the JavaScript30 challenge created
 |09|Dev Tools Domination|🟩|
 |10|Hold Shift and Check Checkboxes|🟩|
 |11|Custom Video Player|🟩|
-|12|Key Sequence Detection|🟨|
-|13|Slide in on Scroll|⬜|
+|12|Key Sequence Detection|🟩|
+|13|Slide in on Scroll|🟨|
 |14|JavaScript References VS Copying|⬜|
 |15|LocalStorage|⬜|
 |16|Mouse Move Shadow|⬜|
