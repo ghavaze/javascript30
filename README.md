@@ -36,8 +36,8 @@ This repository contains my implementation of the JavaScript30 challenge created
 |14|JavaScript References VS Copying|🟩|
 |15|LocalStorage|🟩|
 |16|Mouse Move Shadow|🟩|
-|17|Sort Without Articles|🟨|
-|18|Adding Up Times with Reduce|⬜|
+|17|Sort Without Articles|🟩|
+|18|Adding Up Times with Reduce|🟨|
 |19|Webcam Fun|⬜|
 |20|Speech Detection|⬜|
 |21|Geolocation|⬜|
