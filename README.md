@@ -37,8 +37,8 @@ This repository contains my implementation of the JavaScript30 challenge created
 |15|LocalStorage|🟩|
 |16|Mouse Move Shadow|🟩|
 |17|Sort Without Articles|🟩|
-|18|Adding Up Times with Reduce|🟨|
-|19|Webcam Fun|⬜|
+|18|Adding Up Times with Reduce|🟩|
+|19|Webcam Fun|🟨|
 |20|Speech Detection|⬜|
 |21|Geolocation|⬜|
 |22|Follow Along Link Highlighter|⬜|
