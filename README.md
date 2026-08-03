@@ -41,8 +41,8 @@ This repository contains my implementation of the JavaScript30 challenge created
 |19|Webcam Fun|🟩|
 |20|Speech Detection|🟩|
 |21|Geolocation|🟩|
-|22|Follow Along Link Highlighter|🟨|
-|23|Speech Synthesis|⬜|
+|22|Follow Along Link Highlighter|🟩|
+|23|Speech Synthesis|🟨|
 |24|Sticky Nav|⬜|
 |25|Event Capture, Propagation, Bubbling and Once|⬜|
 |26|Stripe Follow Along Nav|⬜|
