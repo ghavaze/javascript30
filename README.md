@@ -43,8 +43,8 @@ This repository contains my implementation of the JavaScript30 challenge created
 |21|Geolocation|🟩|
 |22|Follow Along Link Highlighter|🟩|
 |23|Speech Synthesis|🟩|
-|24|Sticky Nav|🟨|
-|25|Event Capture, Propagation, Bubbling and Once|⬜|
+|24|Sticky Nav|🟩|
+|25|Event Capture, Propagation, Bubbling and Once|🟨|
 |26|Stripe Follow Along Nav|⬜|
 |27|Click and Drag|⬜|
 |28|Video Speed Controller|⬜|
