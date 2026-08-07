@@ -47,8 +47,8 @@ This repository contains my implementation of the JavaScript30 challenge created
 |25|Event Capture, Propagation, Bubbling and Once|🟩|
 |26|Stripe Follow Along Nav|🟩|
 |27|Click and Drag|🟩|
-|28|Video Speed Controller|🟨|
-|29|Countdown Timer|⬜|
+|28|Video Speed Controller|🟩|
+|29|Countdown Timer|🟨|
 |30|Whack A Mole|⬜|
 
 Legend:
