@@ -2,11 +2,11 @@
 
 ## 📑 Spis treści
 
-1. [Project Overview](#project-overview)
-2. [Goals](#goals)
-3. [Assumptions](#assumptions)
-4. [Progress](#progress)
-5. [Summary](#summary)
+1. [Project Overview](#Project-Overview)
+2. [Goals](#Goals)
+3. [Assumptions](#Assumptions)
+4. [Progress](#Progress)
+5. [Summary](#Summary)
 
 ---
 
